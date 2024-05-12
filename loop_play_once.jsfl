@@ -1,0 +1,1 @@
+﻿//// loop_play_once//// This command was recorded by Adobe Animate.//// Propiedad de la instancia: loop, play oncean.getDocumentDOM().setElementProperty('loop', 'play once');

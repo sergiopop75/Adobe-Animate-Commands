@@ -1,0 +1,1 @@
+﻿//// loop_single_frame//// This command was recorded by Adobe Animate.//// Propiedad de la instancia: loop, single framean.getDocumentDOM().setElementProperty('loop', 'single frame');
